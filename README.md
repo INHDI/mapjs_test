@@ -1,2 +1,2 @@
-# mapjs_test
+# leaflet-test
 Created with CodeSandbox
